@@ -65,7 +65,7 @@
         <code>pandas</code><br>
         <code>matplotlib</code><br>
         <code>torch</code><br>
-        <code>numpy</code><br><br>
+        <code>numpy</code><br>
         <code>sklearn</code><br>
 </td>
 </tr>
