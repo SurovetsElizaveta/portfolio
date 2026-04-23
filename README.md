@@ -54,6 +54,25 @@
    <td>3</td>
    <td>
       <b>
+         <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/churn_ml">
+         Прогнозирование оттока клиентов сетевого провайдера</a>
+     </b>
+ </td>
+ <td>
+   Составила портрет лояльных клиентов и клиентов, склонных к уходу. Построила модель прогнозирования оттока клиентов. Выполнила кластеризацию клиентов.
+</td>
+<td>
+        <code>pandas</code><br>
+        <code>matplotlib</code><br>
+        <code>scipy</code><br>
+        <code>numpy</code><br>
+        <code>sklearn</code><br>
+</td>
+</tr>
+<tr>
+   <td>4</td>
+   <td>
+      <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/images_classification">
          Построение модели для классификации изображений</a>
      </b>
