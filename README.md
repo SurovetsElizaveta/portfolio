@@ -13,24 +13,6 @@
    </tr> 
 </thead>
 <tbody  valign="top">
-    <tr>
-       <td>1</td>
-       <td>
-          <b>
-             <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/prep_eda_stats_hotels">
-             Анализ различий сегментов отельного рынка на основе данных о бронированиях</a>
-          </b>
-     </td>
-     <td>
-        Определила, какие факторы и каким образом влияют на долю отмен и стоимость брони для разных типов отелей.
-    </td>
-    <td>
-        <code>pandas</code><br/>
-        <code>matplotlib</code><br/>
-        <code>numpy</code><br/>
-        <code>stats</code>
-    </td>
-</tr>
 <tr>
    <td>2</td>  
    <td>
@@ -49,6 +31,42 @@
     <code>stats</code><br/>
     <code>scipy</code><br>
 </td>
+</tr>
+<tr>
+   <td>2</td>  
+   <td>
+      <b>
+         <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/web_logs_pyspark">
+         Анализ веб-логов интернет-магазина</a>
+     </b>
+ </td>
+ <td>
+    Произвела парсинг сырых логов в структурированный DataFrame, очистила данные от пропусков и провела анализ трафика и поведения пользователей.
+</td>
+<td>
+    <code>pyspark</code><br>
+    <code>pandas</code><br>
+    <code>matplotlib</code><br>
+    <code>seaborn</code><br>
+</td>
+</tr>
+<tr>
+   <td>1</td>
+   <td>
+      <b>
+         <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/prep_eda_stats_hotels">
+         Анализ различий сегментов отельного рынка на основе данных о бронированиях</a>
+      </b>
+   </td>
+   <td>
+      Определила, какие факторы и каким образом влияют на долю отмен и стоимость брони для разных типов отелей.
+   </td>
+   <td>
+        <code>pandas</code><br/>
+        <code>matplotlib</code><br/>
+        <code>numpy</code><br/>
+        <code>stats</code>
+   </td>
 </tr>
 <tr>
    <td>3</td>
