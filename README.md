@@ -14,7 +14,7 @@
 </thead>
 <tbody  valign="top">
 <tr>
-   <td>2</td>  
+   <td>1</td>  
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/ab_testing_roi">
@@ -51,7 +51,7 @@
 </td>
 </tr>
 <tr>
-   <td>1</td>
+   <td>3</td>
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/prep_eda_stats_hotels">
@@ -69,7 +69,7 @@
    </td>
 </tr>
 <tr>
-   <td>3</td>
+   <td>4</td>
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/churn_ml">
@@ -88,7 +88,7 @@
 </td>
 </tr>
 <tr>
-   <td>4</td>
+   <td>5</td>
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/images_classification">
