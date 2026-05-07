@@ -87,24 +87,5 @@
         <code>sklearn</code><br>
 </td>
 </tr>
-<tr>
-   <td>5</td>
-   <td>
-      <b>
-         <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/images_classification">
-         Построение модели для классификации изображений</a>
-     </b>
- </td>
- <td>
-   Построила простую сверточную нейронную сеть для классификации изображений (CNN), использовала готовую нейроную сеть ResNet18 для определения класса изображения, провела сравнение результатов здух сетей.
-</td>
-<td>
-        <code>pandas</code><br>
-        <code>matplotlib</code><br>
-        <code>torch</code><br>
-        <code>numpy</code><br>
-        <code>sklearn</code><br>
-</td>
-</tr>
 </tbody>
 </table>
