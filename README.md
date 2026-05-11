@@ -51,7 +51,22 @@
 </td>
 </tr>
 <tr>
-   <td>3</td>
+   <td>3</td>  
+   <td>
+      <b>
+         <a href="https://public.tableau.com/app/profile/liza.surovets/viz/Delivery_delays/Delivery_delays">
+         Дашборд для оценки доставки онлайн-магазина</a>
+     </b>
+ </td>
+ <td>
+    Создала дашборд для онлайн-магазина для менеджера операционного отдела по анализу эффективности доставки.
+</td>
+<td>
+    <code>Tableau</code><br>
+</td>
+</tr>
+<tr>
+   <td>4</td>
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/prep_eda_stats_hotels">
@@ -69,7 +84,7 @@
    </td>
 </tr>
 <tr>
-   <td>4</td>
+   <td>5</td>
    <td>
       <b>
          <a href="https://github.com/SurovetsElizaveta/portfolio/tree/main/churn_ml">
